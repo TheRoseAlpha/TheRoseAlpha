@@ -1,8 +1,17 @@
 # Hi there 👋, I'm Rozy
 
-I'm a **Computer Engineering student** and a **junior developer** with a passion for learning and growing.  
-I have experience with **Python, Java, JavaScript, PHP, C, and C++**, and I'm eager to build both **web and mobile applications**, while staying open to new challenges.  
-This GitHub profile is my space to showcase what I can do and to continue improving both academically and personally.
+I'm currently studying **Computer Engineering** and focusing on improving my skills in **Python**, **Web Development**, and **Mobile Development**.
+
+I love learning by building real projects step by step, and I'm working on developing a solid GitHub portfolio to showcase my growth as a developer.
+
+My goals are to:
+- Expand my knowledge frontend technologies  
+- Build practical projects in Python, JavaScript, Html and Css
+- Learn more about modern mobile app development  
+- Become more confident with Git and collaborative workflows  
+
+I'm always curious, motivated, and excited to take on new challenges 🙌
+
 
 ---
 
