@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rozy
+# Hi there 👋, I'm Rosalba
 
 I'm currently studying **Computer Engineering** and focusing on improving my skills in **Python**, **Web Development**, and **Mobile Development**.
 
@@ -11,6 +11,14 @@ My goals are to:
 - Become more confident with Git and collaborative workflows  
 
 I'm always curious, motivated, and excited to take on new challenges 🙌
+
+---
+
+## 🚀 Projects
+
+- [**Fitness Website**](https://github.com/TheRoseAlpha/pheonix-fit) – HTML, CSS, PHP  
+- **GigaChat** – Messaging app in C++
+- More projects coming soon...
 
 
 ---
